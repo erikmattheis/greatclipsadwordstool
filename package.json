@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "async": "^2.6.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "googleapis": "^42.0.0",
     "node-adwords": "^201809.0.2",
     "refresh-token": "^1.0.0",
